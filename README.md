@@ -1,5 +1,5 @@
 
-<div align="center">
+<div style="font-family:Serif" align="center">
     <h1 >Hi, My Name is Oğuzhan</h1>
 
 <h2>I graduated from Eskişehir Osmangazi University </br>
